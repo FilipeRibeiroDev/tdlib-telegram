@@ -1,1 +1,1 @@
-# tdlib-telegram
+# telegram-tblib
